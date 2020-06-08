@@ -1,0 +1,7 @@
+#Two methods of selecting columns 
+# Select the column item from credit_records
+# Use brackets and string notation
+items = credit_records['items] #first method 
+items = credit_records.item # second method
+# Display the results
+print(items)
